@@ -6,6 +6,7 @@ public class App {
 		System.out.println("안녕하세유");
 		System.out.println("실행2");
 		System.out.println("실행3");
+		System.out.println("집에보내달라우.....실행4");
 		
 	
 	}
