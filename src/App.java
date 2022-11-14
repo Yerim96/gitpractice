@@ -5,6 +5,8 @@ public class App {
 		// TODO Auto-generated method stub
 		System.out.println("안녕하세유");
 		System.out.println("실행2");
+		System.out.println("실행3");
+		
 	
 	}
 
