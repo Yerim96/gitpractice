@@ -15,6 +15,10 @@ public class App {
 		System.out.println("실행 2");
 		System.out.println("실행 4");
 
+		System.out.println("실행 7");
+		System.out.println("branch-실행1");
+		System.out.println("실행 2");
+		System.out.println("실행 3");
 		
 	
 	}
